@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/mapforge_engine.dir/link.d CMakeFiles/mapforge_engine.dir/src/engine.cpp.o -o mapforge_engine  _deps/raylib-build/raylib/libraylib.a liblua_lib.a -lpthread /usr/lib/libOpenGL.so /usr/lib/libGLX.so /usr/lib/libGLU.so /usr/lib/librt.a -lm -ldl -lm

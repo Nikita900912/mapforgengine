@@ -1,0 +1,14 @@
+# Target labels
+ lua-populate
+# Source files and their labels
+/home/w3m/mapforge/build/_deps/lua-subbuild/CMakeFiles/lua-populate
+/home/w3m/mapforge/build/_deps/lua-subbuild/CMakeFiles/lua-populate.rule
+/home/w3m/mapforge/build/_deps/lua-subbuild/CMakeFiles/lua-populate-complete.rule
+/home/w3m/mapforge/build/_deps/lua-subbuild/lua-populate-prefix/src/lua-populate-stamp/lua-populate-build.rule
+/home/w3m/mapforge/build/_deps/lua-subbuild/lua-populate-prefix/src/lua-populate-stamp/lua-populate-configure.rule
+/home/w3m/mapforge/build/_deps/lua-subbuild/lua-populate-prefix/src/lua-populate-stamp/lua-populate-download.rule
+/home/w3m/mapforge/build/_deps/lua-subbuild/lua-populate-prefix/src/lua-populate-stamp/lua-populate-install.rule
+/home/w3m/mapforge/build/_deps/lua-subbuild/lua-populate-prefix/src/lua-populate-stamp/lua-populate-mkdir.rule
+/home/w3m/mapforge/build/_deps/lua-subbuild/lua-populate-prefix/src/lua-populate-stamp/lua-populate-patch.rule
+/home/w3m/mapforge/build/_deps/lua-subbuild/lua-populate-prefix/src/lua-populate-stamp/lua-populate-test.rule
+/home/w3m/mapforge/build/_deps/lua-subbuild/lua-populate-prefix/src/lua-populate-stamp/lua-populate-update.rule

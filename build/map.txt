@@ -1,0 +1,4 @@
+# MapForge map v1
+# type x y z sx sy sz r g b [name]
+plane 0.5 0 0 4.5 0 4 90 190 90 Plane
+sphere 0.5 0.5 0 1 1 1 70 150 230 player

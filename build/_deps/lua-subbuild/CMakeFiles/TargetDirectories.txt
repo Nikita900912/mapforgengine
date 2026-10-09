@@ -1,0 +1,3 @@
+/home/w3m/mapforge/build/_deps/lua-subbuild/CMakeFiles/lua-populate.dir
+/home/w3m/mapforge/build/_deps/lua-subbuild/CMakeFiles/edit_cache.dir
+/home/w3m/mapforge/build/_deps/lua-subbuild/CMakeFiles/rebuild_cache.dir
